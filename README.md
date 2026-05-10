@@ -1,3 +1,4 @@
+![Görüntülenme](https://img.shields.io/github/search/suphiyasin/Hepsiburada-API/hits?label=Görüntülenme&color=brightgreen&logo=github)
 # 🚀 Hepsiburada PHP API SDK (Unofficial)
 
 Bu kütüphane, Hepsiburada'nın Mobil API'leri ile (Scorpion & MobileAPI) doğrudan haberleşmek için yazılmış, esnek bir PHP kütüphanesidir. 
