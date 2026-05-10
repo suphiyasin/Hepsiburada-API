@@ -18,6 +18,7 @@ Hepsiburada sunucularından gelen veriyi hiçbir şekilde bozmadan, saf JSON for
 Projeyi kurduğunuzda dizin yapınızın şu şekilde olması tavsiye edilir:
 
 HepsiburadaAPI/
+
 │
 ├── MyUsers/                     # Kullanıcı oturumlarının otomatik kaydedildiği klasör
 │   └── default.json             # Sistemin çalışması için gereken temel cihaz bilgileri
