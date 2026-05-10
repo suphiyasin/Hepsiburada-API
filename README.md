@@ -16,9 +16,8 @@ Hepsiburada sunucularından gelen veriyi hiçbir şekilde bozmadan, saf JSON for
 ## 📂 Klasör Yapısı
 
 Projeyi kurduğunuzda dizin yapınızın şu şekilde olması tavsiye edilir:
-
+```
 HepsiburadaAPI/
-
 │
 ├── MyUsers/                     # Kullanıcı oturumlarının otomatik kaydedildiği klasör
 │   └── default.json             # Sistemin çalışması için gereken temel cihaz bilgileri
@@ -28,7 +27,7 @@ HepsiburadaAPI/
 │   └── HepsiburadaAPI.php       # Metodların (Search, Cart, Login) bulunduğu vitrin
 │
 └── index.php                    # API'yi çalıştıracağınız veya test edeceğiniz dosya
-
+```
 *Not: MyUsers/default.json dosyasını sizin için doldurdum fakat işe yaramazsa burpsuite gibi uygulamalar ile kendi cihazınıza özel device idleri koymanız gerekebilir.*
 
 ---
